@@ -3,11 +3,11 @@
 This repository contains the documentation and code for my thesis on the comparative analysis of several deep learning CNN architectures (MobileNetV2, DenseNet, ResNet-152, and VGG19) in identifying the types and health levels of coral reefs. The goal of this research is to develop a classification system for coral reef types and health levels using deep learning techniques.
 
 ## Repository Structure
+```
 /Code # Jupyter notebooks for data preprocessing, training, and testing
 /Predict Code # Code to test the model with sample image
 README.md # This file
-requirements.txt # List of dependencies
-
+```
 ## Dataset
 
 The dataset used in this study consists of 507 images for coral reef type classification and 520 images for coral reef health level classification. The images were collected from various sources, including:
